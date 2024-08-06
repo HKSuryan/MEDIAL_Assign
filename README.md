@@ -31,3 +31,4 @@ This project demonstrates a simple post page created using React, which dynamica
 2. Fill in the post title, content, and optionally upload an image.
 3. The og:image will be generated dynamically and displayed on the page.
 
+![Screenshot 2024-08-06 at 9 29 11 PM](https://github.com/user-attachments/assets/887c0cdd-a295-4a32-9c90-f45e75d1e1a6)
