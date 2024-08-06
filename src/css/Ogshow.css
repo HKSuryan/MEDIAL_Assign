@@ -1,0 +1,12 @@
+.imgos img{
+    width: 90%;
+    height:60%;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.imgos{
+    display: flex;
+    justify-content: center;
+}
